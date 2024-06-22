@@ -2,4 +2,4 @@ This is a Q and A assistant I have built for an Elearning webiste where the FAQs
 Utilized the Google LLM PaLM for its NLP capabilities
 
 Technologies used 
-https://img.shields.io/badge/Streamlit
+(https://img.shields.io/badge/-streamlit-333333?style=flat&logo=streamlit
