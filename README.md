@@ -4,5 +4,8 @@ Utilized the Google LLM PaLM for its NLP capabilities
 Technologies used 
 ![Streamlit](https://img.shields.io/badge/-streamlit-333333?style=flat&logo=streamlit)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HuggingFaceEmbedding](https://img.shields.io/badge/-HuggingFaceEmbedding-333333?style=flat&logo=HuggingFaceEmbedding)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
+![HuggingFace](https://img.shields.io/badge/-HuggingFaceEmbedding-333333?style=flat&logo=HuggingFaceEmbedding)
+![FAISS](https://img.shields.io/badge/-FAISS-333333?style=flat&logo=FAISS)
+[Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
 
