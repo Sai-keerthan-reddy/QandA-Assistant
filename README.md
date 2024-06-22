@@ -7,5 +7,5 @@ Technologies used
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFaceEmbedding-333333?style=flat&logo=HuggingFaceEmbedding)
 ![FAISS](https://img.shields.io/badge/-FAISS-333333?style=flat&logo=FAISS)
-[Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
 
